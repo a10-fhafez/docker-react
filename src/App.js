@@ -13,7 +13,7 @@ function App() {
         alt = "logos" / >
         <
         p >
-        Edit < code > src / App.js < /code> and save to blah!. < /
+        Edit < code > src / App.js < /code> feature branch!. < /
         p > <
         a className = "App-link"
         href = "https://reactjs.org"
